@@ -1,2 +1,2 @@
-# EasyVisa_1
+#  EasyVisa: Visa Approval Prediction using Ensemble Techniques
 This project aims to streamline the visa certification process handled by the Office of Foreign Labor Certification (OFLC) by building a machine learning model that predicts whether a visa application should be certified or denied. Given the rising number of applications each year, EasyVisa—a data-driven consulting firm—leverages classification models to support decision-making and identify key factors influencing visa outcomes.
