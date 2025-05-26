@@ -1,0 +1,25 @@
+## How to Run
+
+1. Clone the repository
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Jupyter notebooks for EDA and model training
+
+---
+
+## Future Improvements
+
+* Incorporate NLP analysis for job description fields (if available)
+* Use SHAP values for deeper model interpretability
+* Build an interactive web-based visa approval demo
+
+---
+
+## Disclaimer
+
+The dataset used is private and cannot be shared due to confidentiality agreements.
+
+---
